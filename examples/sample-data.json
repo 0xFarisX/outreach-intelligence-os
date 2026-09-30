@@ -1,0 +1,18 @@
+{
+  "business": "Northstar Field Services",
+  "industry": "professional_services",
+  "relationship": {
+    "two_way": true,
+    "engagement_complete": true,
+    "recency_band": "established"
+  },
+  "qualification": {
+    "website_status": "live",
+    "risk_flag": false
+  },
+  "recommendation": {
+    "priority_band": "prime_review",
+    "angle": "reduce_manual_follow_up",
+    "delivery": "gmail_draft_only"
+  }
+}
